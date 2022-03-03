@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Sample Master Suite File containing all relevant Suite Files -->
+<suite name="CompanySetup">
+
+	<suite-files>
+		<suite-file
+			path="./src/main/resources/suitefile/employeepage.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/manageractionapprove.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/mangershifts.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/managerreports.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/managerreportspdf.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/managerreportsexcle.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/managermorethan31days.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/mangertimesheetsenttab.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/mangeractivityreport.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/adminreject.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/mangeractionreject.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/managerreject.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/adminfreezeshifts.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/adminsendmail.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/adminstipulatedmail.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/adminallemployeestab.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/mangertimesheetsenttab.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/adminallemployeetabpdf.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/adminactivityreport.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/admineditactivity.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/adminaddactivitydelete.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/stipulatedmailapprove.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/stipulatedmaildelete.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/mangerapprove.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/employeedashboard.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/humanresourcescontent.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/hrportallinks.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/hrpolicies.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/hrconnect.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/hrsecuritypolicy.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/hrholidaycalendar.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/hruserguide.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/reachyourhr.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/hrcoreteam.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/MyProfile.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/MyProfileKYC.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/MyProfilePassportAndVisa.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/MyProfilePersonalTab.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/MyProfileFamily.xml" />
+			<suite-file
+			path="./src/main/resources/suitefile/MyprofilePreviousEmployment.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/MyprofileEducation.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/MyprofileSkills.xml" />
+		<suite-file
+			path="./src/main/resources/suitefile/MyprofileCertifications.xml" />
+				<suite-file
+			path="./src/main/resources/suitefile/MyColleagueGridview.xml" />
+				<suite-file
+			path="./src/main/resources/suitefile/MyColleagueListview.xml" />
+				<suite-file
+			path="./src/main/resources/suitefile/JobsPage.xml" />
+				<suite-file
+			path="./src/main/resources/suitefile/EventsPage.xml" />
+		
+			
+
+
+
+	</suite-files>
+</suite>
